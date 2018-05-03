@@ -1,7 +1,7 @@
 #Practical task
-#####to check some level (for instance basic) simply delete two other packages. 
+#####to check some level (for instance basic) simply delete two other packages (advanced, super_advanced). 
 #####you can restore the code using git revert functionality or simply re-clone repository using
-`git clone repo_path`
+`git clone https://github.com/azhelezny/interview.git`
  
 command 
 ##Basic level
