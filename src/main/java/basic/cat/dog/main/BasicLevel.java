@@ -1,8 +1,8 @@
-package basic.main;
+package basic.cat.dog.main;
 
-import basic.classes.animal.Animal;
-import basic.classes.cat.Cat;
-import basic.classes.dog.Dog;
+import basic.cat.dog.classes.animal.Animal;
+import basic.cat.dog.classes.cat.Cat;
+import basic.cat.dog.classes.dog.Dog;
 
 import java.util.ArrayList;
 import java.util.List;
