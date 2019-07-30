@@ -25,6 +25,9 @@ So, you have to count the valleys for them.
 U = 1km up, D = 1km down
 
 /\ - mount \\/ - valley
+
+[Link to image](https://monosnap.com/file/sl3yH590AIWH6IZZocZa5Zzv0mj13x)
+
 ### Task (FizzBazz)
 Write a program that prints the numbers from 1 to 20.
 But for multiples of 3 print “Fizz”
